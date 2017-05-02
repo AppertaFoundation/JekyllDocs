@@ -2,13 +2,13 @@
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Operon Cloud
+topnav_title: Code4Health Platform
 # this appears on the top navigation bar next to the home button
 
 site_title: Open Health Platform
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Operon Limited
+company_name: Code4Health
 # this appears in the footer
 
 github_editme_path:
@@ -30,9 +30,9 @@ exclude: [vendor]
 
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: C4H documentation feedback
 
-feedback_email: info@operon.systems
+feedback_email: info@code4health.org
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -100,8 +100,8 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "Documentation for Code4Health Platform."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: http://idratherbewriting.com
+url: https://docs.code4health.org
