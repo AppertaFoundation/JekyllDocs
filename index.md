@@ -15,11 +15,11 @@ Unlike many other platforms which are based on proprietary approaches which mean
 
 To find out more about the rationale and concepts behind the open platform approach, you may want to look this video.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/hrdLaWk-beQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/hrdLaWk-beQ" frameborder="0" allowfullscreen></iframe>
 
 ## Create an Account
 
-Your first step to using the platform is to create an account. Tier 1 usage is free of charge and no credit card details are necessary to create an account. To create your account just [click here](http://c4h.noesis.limited/#/register).
+Your first step to using the platform is to create an account. Tier 1 usage is free of charge and no credit card details are necessary to create an account. To create your account just [click here](https://platform.code4health.org/#/register).
 
 ## Build a Operino
 
