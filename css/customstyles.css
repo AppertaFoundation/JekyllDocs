@@ -223,13 +223,13 @@ p.post-meta {font-size: 80%; color: #777;}
     box-shadow: 2px 3px 2px #dedede;
 }
 
-
 ul#results-container a {
+    color: black;
     background-color: transparent;
 }
 
 ul#results-container a: hover {
-    color: black;
+    text-decoration: underline;
 }
 
 
